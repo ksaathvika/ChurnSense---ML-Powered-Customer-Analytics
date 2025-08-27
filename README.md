@@ -1,4 +1,4 @@
-# ChurnSense---ML-Powered-Customer-Analytics
+# ChurnSense-ML Powered Customer Analytics
 Overview:
 Built a comprehensive machine learning system to predict customer churn in the telecommunications industry using a dataset of 7,043 customers with 38 behavioral and demographic features.
 Key Technical Components:
